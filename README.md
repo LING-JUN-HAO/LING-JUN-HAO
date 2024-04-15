@@ -1,6 +1,6 @@
 # Ｗho Am I
 
-I am a frontend engineer who loves the soul of the web.
+I am a front-end engineer with a passion for webpage development.
 
 ## My Github Stats
 
